@@ -6,4 +6,7 @@ https://ilook.asia/thu-thuat/kien-thuc-ve-git-quan-ly-source-code-va-lam-viec-nh
 
 dung git clone link để vào dự án
 abcd
+git checkout main
+git pull là lấy dữ liệu mới nhất về
+
 
