@@ -8,6 +8,6 @@ dung git clone link để vào dự án
 abcd
 git checkout main
 git pull là lấy dữ liệu mới nhất về
-dua len lan 5,hhhhhhhhh
+dua len lan 5,hhhhhhhhh,jjjjjjjjjjjj
 
 
